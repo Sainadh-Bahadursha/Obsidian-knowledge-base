@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb3d78de2ffcd602",
+        "id": "31b8631ffa0cda0a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f84535c7c8f8bf6",
+            "id": "06f1b3a2994848d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/C++ Basics By Take u Forward in Single Shot.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "C++ Basics By Take u Forward in Single Shot"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/C++ Basics By Take u Forward in Single Shot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C++ Basics By Take u Forward in Single Shot"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/C++ Basics By Take u Forward in Single Shot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from C++ Basics By Take u Forward in Single Shot"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Inbox/C++ Basics By Take u Forward in Single Shot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C++ Basics By Take u Forward in Single Shot"
             }
           }
         ]
@@ -177,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f84535c7c8f8bf6",
+  "active": "f549910d8ac13f5c",
   "lastOpenFiles": [
+    "Inbox/C++ Basics By Take u Forward in Single Shot.md",
+    "DSA",
+    "Inbox",
     "Welcome.md"
   ]
 }
